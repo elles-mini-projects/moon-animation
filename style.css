@@ -96,3 +96,11 @@ p.letter
     top: 0.25em;
     left: 0.25em;
 }
+
+@media screen and (min-width: 700px)
+{
+    .container
+    {
+        font-size: 20px;
+    }    
+}
